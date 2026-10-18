@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="二面相机标定.vcxproj" />
+  <Project Path="二面相机标定.vcxproj" Id="c77c88ca-4269-47e0-85f8-595e852314c2" />
 </Solution>
